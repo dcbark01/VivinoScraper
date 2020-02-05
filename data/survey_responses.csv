@@ -1,0 +1,20 @@
+response,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10
+1,30 - 39,Male,0,Supermarket;Winery,I have some preferred brand,5,I have not used a wine recommendation app,1,In store ,Not sure now
+2,30 - 39,Male,1-2,Retail Bottle Shop,meal being paired with.,4,Delectable;Wine.com;Vivino,3,At the store.,location integration
+3,18 - 29,Male,1-2,Supermarket;Retail Bottle Shop,taste,4,I have not used a wine recommendation app,1,n/a,n/a
+4,18 - 29,Male,1-2,Retail Bottle Shop;Winery,Past experience with wines I have had,4,Wine.com;Vivino,3,At home on my phone,Make it easier to find similar wines to me preferred choices
+5,30 - 39,Female,0,Convenience Store,I do it based on recommendations from my friends,4,I have not used a wine recommendation app,1,I'd most likely use it on my mobile phone because I may be looking up recommendations from the convenience store while shopping for friends and family. ,I'd like it to its popularity star ratings / connoisseur inputs
+6,18 - 29,Male,3-4,Supermarket;Retail Bottle Shop;Winery,Price... I love Stella Rose because it's cheap and delicious,4,Vivino,2,At home or at a social gathering when I'm trying to find new wines to try.,Filter out better rated wines
+7,18 - 29,Male,1-2,Convenience Store,cheap but looks fancy,1,I have not used a wine recommendation app,1,I don't,i dont
+8,30 - 39,Male,1-2,Supermarket;Retail Bottle Shop,Check label and then check rating for that wine and year,2,I have not used a wine recommendation app,1,Not using yet but would like to use it,Not using yet but would like to use it
+9,18 - 29,Male,1-2,Supermarket;Retail Bottle Shop;Convenience Store;Winery,"price, and bottle location/origin ",4,Vivino,2,at the store,recommended bottles based on food pairings
+10,30 - 39,Male,0,Supermarket,Which one has a bird on it. Or if it's from a town I like.,2,I have not used a wine recommendation app,1,N/A,N/A
+11,18 - 29,Female,0,Supermarket;Retail Bottle Shop;Restaurant;Convenience Store;Winery,"Friend recommendations, ""what looks good""",2,I have not used a wine recommendation app,1,N/A,A wine app for beginners who are not sure what they like/want
+12,18 - 29,Female,0,Supermarket;Winery,Google it.,3,I have not used a wine recommendation app,1,Before purcahse a wine at home or in a car.,"Add price, year of make, reviews and alcohol percentage"
+13,18 - 29,Male,1-2,Supermarket,I usually stick to a certain brand,5,I have not used a wine recommendation app,3,Inside the store,Let me choose wine from a certain country
+14,18 - 29,Male,1-2,Supermarket,Online reviews,4,Wine.com,3,Usually at home,"I'm relatively satisfied with it.  I would like to see a ""wines near you"" kind of feature but that would involve integration into various supermarket / retailer systems.  Perhaps ""wineries near you""?"
+15,18 - 29,Female,1-2,Supermarket;Restaurant;Winery,Price / packaging,2,Vivino,2,At wine shops,Better recommendation systems - tell me what to drink and WHY
+16,30 - 39,Female,0,Other,I dont buy,3,I have not used a wine recommendation app,1,NA,NA
+17,30 - 39,Male,1-2,Supermarket;Restaurant,red wine,4,I have not used a wine recommendation app,1,i never used,i never used
+18,18 - 29,Male,1-2,Supermarket;Retail Bottle Shop,Outlooking ,2,Wine-Searcher;Vivino,2,At market or Store,Recommendation based on my social media post
+19,40 - 49,Male,1-2,Restaurant,NA,3,Wine-Searcher,3,NA,NA
