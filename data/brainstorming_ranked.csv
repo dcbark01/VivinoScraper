@@ -1,0 +1,22 @@
+idea_key,ideas,requirement_node,label,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,page_rank
+13,Discrete notifications on smart watch for recs during dates,N,13,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.067800614
+15,Use geolocation to provide relevant recs when user is in store,N,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0.046575133
+3,Digital wine glasses,N,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.045194452
+1,"In aisle screens that detect user's presence and wine profile, provide recs",N,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.044832385
+24,"Popular celebrities for male audience giving recs (e.g. sports stars, etc.)",N,24,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.04352112
+21,"Take picture of meal at home/restaurant and wine you had with it, rate the pairing",N,21,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.040423619
+9,Take picture of groceries in car and app returns recommendation for wine pairing,N,9,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.039901915
+19,RFID in wine fridge to alert users they might have good bottle for pairing with food already,N,19,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.039466332
+5,Social network for wine recs,N,5,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.035906293
+14,Smart watch notifications,N,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0.031771066
+17,"Allow bottles to interact with people (e.g. RFID, etc.)",N,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.030635967
+22,ML algo to provide recs on similar food/wine combos user likely to enjoy,N,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0.02961441
+8,Allow filtering by price,N,8,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.028386437
+10,Take picture of menu/grocery list and get rec,N,10,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.027837285
+6,Recs based on friends liked bottles,N,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.020815534
+20,Notify users of nearby wineries,N,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.018751303
+4,Pair with Coravin system for experienced users,N,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.018360541
+0,"Screens on shopping carts provide recs, distract kids",N,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01825793
+25,Match 23&Me/Ancestry.com genetic profiles to mass spectometry data for wine to make precise recs based on user's unique tastes,N,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.018161415
+26,Links to wine experts explaining details of a specific wine,N,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.018161415
+18,Partner with restaurant for cut of profits as opposed to ad model (reduces annoying advertisements),N,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.017081321
